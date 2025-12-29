@@ -1,57 +1,62 @@
-# Hi, I'm Ishwari Deshmukh 👋
+# Hey 👋 I'm Ishwari Deshmukh
 
-🎓 Computer Science Graduate | 💻 Aspiring Full Stack & ML Engineer  
-🚀 Passionate about building real-world web and AI solutions  
+🎓 Computer Science Graduate | 💻 Full Stack & ML Enthusiast | 🚀 Problem Solver  
 
 ---
 
-## 🔹 About Me
+## 👩‍💻 About Me
 - 🌱 Currently learning **MERN Stack & Advanced DSA**
 - 🤖 Built ML projects using **Python, Flask, LSTM**
 - 📊 Interested in **Full Stack Development & AI**
-- 🎯 Career goal: Software Engineer / Full Stack Developer
+- 🎯 Goal: Software Engineer / Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:**  
-Python, JavaScript, Java, C  
+## 🔧 What I'm working on
+- 🚀 **Stock Price Prediction System** (LSTM + Flask)
+- 🌐 **MERN Stack Projects** (React, Node, MongoDB)
+- 📚 Strengthening **DSA & Core CS fundamentals**
 
-**Frontend:**  
-React.js, HTML, CSS, Bootstrap  
+---
 
-**Backend:**  
-Node.js, Express.js, Flask  
-
-**Databases:**  
-MongoDB, MySQL  
-
-**AI / ML:**  
-NumPy, Pandas, Scikit-learn, Keras  
-
-**Tools:**  
-Git, GitHub, VS Code, Postman  
+## 🛠️ I code with
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,java,c,react,nodejs,express,flask,mongodb,mysql,html,css,git,github" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
-### 🔹 Stock Price Prediction System
-- LSTM-based prediction model
-- Flask API for training & prediction
-- File upload + visualization support
+### 📈 Stock Price Prediction System
+- Time-series forecasting using **LSTM**
+- Flask-based REST API
+- File upload & prediction pipeline
 
-### 🔹 Taskify – Smart To-Do App (MERN)
-- Authentication & CRUD tasks
-- Responsive UI with React
-- MongoDB backend
+### 🗂️ Tourism Management System
+- Full stack web application
+- Clean UI + backend integration
 
----
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+### 🧾 Resume Builder
+- Dynamic resume generation
+- User-friendly interface
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/ishwarideshmukh2003
-- Email: ishwarideshmukh2003@gmail.com
+## 📊 GitHub Stats
+![Ishwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshwariDeshmukh19&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect with me
+<p>
+  <a href="https://linkedin.com/in/ishwarideshmukh2003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:ishwarideshmukh2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+⚡ Fun fact: I enjoy turning ideas into real, working software 🚀
