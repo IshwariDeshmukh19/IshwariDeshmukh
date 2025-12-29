@@ -42,8 +42,12 @@
 
 ---
 
-## 📊 GitHub Stats
-![Ishwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=IshwariDeshmukh19&show_icons=true&theme=tokyonight)
+<h2>📊 GitHub Stats</h2>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=IshwariDeshmukh19&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  alt="Ishwari GitHub Stats"
+/>
 
 ---
 
